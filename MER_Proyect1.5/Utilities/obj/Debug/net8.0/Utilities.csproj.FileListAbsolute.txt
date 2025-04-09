@@ -1,0 +1,102 @@
+D:\MER_Proyect\Utilities\bin\Debug\net8.0\Utilities.deps.json
+D:\MER_Proyect\Utilities\bin\Debug\net8.0\Utilities.dll
+D:\MER_Proyect\Utilities\bin\Debug\net8.0\Utilities.pdb
+D:\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfoInputs.cache
+D:\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfo.cs
+D:\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.csproj.CoreCompileInputs.cache
+D:\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.dll
+D:\MER_Proyect\Utilities\obj\Debug\net8.0\refint\Utilities.dll
+D:\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.pdb
+D:\MER_Proyect\Utilities\obj\Debug\net8.0\ref\Utilities.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Utilities\bin\Debug\net8.0\Utilities.deps.json
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Utilities\bin\Debug\net8.0\Utilities.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Utilities\bin\Debug\net8.0\Utilities.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfo.cs
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.sourcelink.json
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Utilities\obj\Debug\net8.0\refint\Utilities.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Utilities\obj\Debug\net8.0\ref\Utilities.dll
+C:\Users\GUERRERO\Desktop\MER_Proyect\Utilities\bin\Debug\net8.0\Utilities.deps.json
+C:\Users\GUERRERO\Desktop\MER_Proyect\Utilities\bin\Debug\net8.0\Utilities.dll
+C:\Users\GUERRERO\Desktop\MER_Proyect\Utilities\bin\Debug\net8.0\Utilities.pdb
+C:\Users\GUERRERO\Desktop\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUERRERO\Desktop\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\GUERRERO\Desktop\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfo.cs
+C:\Users\GUERRERO\Desktop\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\GUERRERO\Desktop\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.dll
+C:\Users\GUERRERO\Desktop\MER_Proyect\Utilities\obj\Debug\net8.0\refint\Utilities.dll
+C:\Users\GUERRERO\Desktop\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.pdb
+C:\Users\GUERRERO\Desktop\MER_Proyect\Utilities\obj\Debug\net8.0\ref\Utilities.dll
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Utilities\bin\Debug\net8.0\Utilities.deps.json
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Utilities\bin\Debug\net8.0\Utilities.dll
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Utilities\bin\Debug\net8.0\Utilities.pdb
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfo.cs
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.sourcelink.json
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.dll
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Utilities\obj\Debug\net8.0\refint\Utilities.dll
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.pdb
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Utilities\obj\Debug\net8.0\ref\Utilities.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Utilities\bin\Debug\net8.0\Utilities.deps.json
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Utilities\bin\Debug\net8.0\Utilities.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Utilities\bin\Debug\net8.0\Utilities.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfo.cs
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.sourcelink.json
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Utilities\obj\Debug\net8.0\refint\Utilities.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Utilities\obj\Debug\net8.0\Utilities.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Utilities\obj\Debug\net8.0\ref\Utilities.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Utilities\bin\Debug\net8.0\Utilities.deps.json
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Utilities\bin\Debug\net8.0\Utilities.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Utilities\bin\Debug\net8.0\Utilities.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Utilities\obj\Debug\net8.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfo.cs
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Utilities\obj\Debug\net8.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Utilities\obj\Debug\net8.0\Utilities.sourcelink.json
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Utilities\obj\Debug\net8.0\Utilities.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Utilities\obj\Debug\net8.0\refint\Utilities.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Utilities\obj\Debug\net8.0\Utilities.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Utilities\obj\Debug\net8.0\ref\Utilities.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Utilities\bin\Debug\net8.0\Utilities.deps.json
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Utilities\bin\Debug\net8.0\Utilities.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Utilities\bin\Debug\net8.0\Utilities.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Utilities\bin\Debug\net8.0\Entity.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Utilities\bin\Debug\net8.0\Entity.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Utilities\obj\Debug\net8.0\Utilities.csproj.AssemblyReference.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Utilities\obj\Debug\net8.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfo.cs
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Utilities\obj\Debug\net8.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Utilities\obj\Debug\net8.0\Utilities.sourcelink.json
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Utilities\obj\Debug\net8.0\Utilities.csproj.Up2Date
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Utilities\obj\Debug\net8.0\Utilities.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Utilities\obj\Debug\net8.0\refint\Utilities.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Utilities\obj\Debug\net8.0\Utilities.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Utilities\obj\Debug\net8.0\ref\Utilities.dll
+C:\ensayo\c#\MER_Proyect1.5\Utilities\bin\Debug\net8.0\Utilities.deps.json
+C:\ensayo\c#\MER_Proyect1.5\Utilities\bin\Debug\net8.0\Utilities.dll
+C:\ensayo\c#\MER_Proyect1.5\Utilities\bin\Debug\net8.0\Utilities.pdb
+C:\ensayo\c#\MER_Proyect1.5\Utilities\bin\Debug\net8.0\Entity.dll
+C:\ensayo\c#\MER_Proyect1.5\Utilities\bin\Debug\net8.0\Entity.pdb
+C:\ensayo\c#\MER_Proyect1.5\Utilities\obj\Debug\net8.0\Utilities.csproj.AssemblyReference.cache
+C:\ensayo\c#\MER_Proyect1.5\Utilities\obj\Debug\net8.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\ensayo\c#\MER_Proyect1.5\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfoInputs.cache
+C:\ensayo\c#\MER_Proyect1.5\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfo.cs
+C:\ensayo\c#\MER_Proyect1.5\Utilities\obj\Debug\net8.0\Utilities.csproj.CoreCompileInputs.cache
+C:\ensayo\c#\MER_Proyect1.5\Utilities\obj\Debug\net8.0\Utilities.sourcelink.json
+C:\ensayo\c#\MER_Proyect1.5\Utilities\obj\Debug\net8.0\Utilities.csproj.Up2Date
+C:\ensayo\c#\MER_Proyect1.5\Utilities\obj\Debug\net8.0\Utilities.dll
+C:\ensayo\c#\MER_Proyect1.5\Utilities\obj\Debug\net8.0\refint\Utilities.dll
+C:\ensayo\c#\MER_Proyect1.5\Utilities\obj\Debug\net8.0\Utilities.pdb
+C:\ensayo\c#\MER_Proyect1.5\Utilities\obj\Debug\net8.0\ref\Utilities.dll
